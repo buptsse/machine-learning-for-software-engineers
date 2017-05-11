@@ -237,6 +237,8 @@
 - [ ] [如何竞争Kaggle的Master](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
 ## 系列视频
+- [x] [【3Blue1Brown官方双语/合集】线性代数的本质 - 系列合集
+](http://www.bilibili.com/video/av6731067/)
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
