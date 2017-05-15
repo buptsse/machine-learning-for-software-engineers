@@ -165,8 +165,8 @@
 - [ ] [无监督学习，相关领域与实践中的机器学习](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
 ## 故事与经验
-- [ ] [一周的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
-- [ ] [一年的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
+- [x] [一周的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
+- [x] [一年的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
 - [ ] [我是如何在3天内写出我的第一个机器学习程序的](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
 - [ ] [学习路径：你成为机器学习专家的导师](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [不是PhD你也可以成为机器学习的摇滚明星](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
