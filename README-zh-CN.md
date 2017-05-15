@@ -38,6 +38,7 @@
 - [一本深入，非技术的机器学习指南](#一本深入-非技术的机器学习指南)
 - [故事与经验](#故事与经验)
 - [机器学习算法](#机器学习算法)
+- [数学知识](#数学知识)
 - [入门书籍](#入门书籍)
 - [实用书籍](#实用书籍)
 - [Kaggle知识竞赛](#kaggle知识竞赛)
@@ -185,6 +186,11 @@
 - [ ] [机器学习工程师需要知道的10种算法](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [比较监督学习算法](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [收集的最简化、可执行的机器学习算法](https://github.com/rushter/MLAlgorithms)
+
+## 数学知识
+- [x] [【官方双语/合集】线性代数的本质 - 系列合集](http://www.bilibili.com/video/av6731067/) 
+- [x] [ 偏导数](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-introduction)
+- [ ] [【官方双语】微积分的本质](http://www.bilibili.com/video/av10308208/)
 
 ## 入门书籍
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
