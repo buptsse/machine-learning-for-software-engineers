@@ -333,8 +333,8 @@
 - [DigitalMind的人工智能资源](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [令人惊叹的机器学习](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi的机器学习](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
-- [x][Octave 常用命令](http://blog.csdn.net/pipisorry/article/details/43565653)
-
+- [x] [Octave 常用命令](http://blog.csdn.net/pipisorry/article/details/43565653)
+- [x] [Octave 调试] (https://www.gnu.org/software/octave/doc/interpreter/Breakpoints.html)
 ## 成为一名开源贡献者
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
