@@ -335,6 +335,8 @@
 - [CreativeAi的机器学习](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 - [x] [Octave 常用命令](http://blog.csdn.net/pipisorry/article/details/43565653)
 - [x] [Octave 调试](https://www.gnu.org/software/octave/doc/interpreter/Breakpoints.html)
+- [ ] [BackPropagation BP算法](https://www.zhihu.com/question/27239198)
+- [ ] [知乎上一个很棒的BP算法理解](https://www.zhihu.com/question/27239198)
 ## 成为一名开源贡献者
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
@@ -404,3 +406,17 @@
 
 ## 我崇拜的公司
 - [ ] [ELSA - 你虚拟的口语教练](https://www.elsanow.io/home)
+
+## Udacity 无人驾驶相关
+- [x][无人驾驶行业介绍](https://www.nytimes.com/interactive/2016/12/14/technology/how-self-driving-cars-work.html?_r=0)
+### project1
+- [x] [大体介绍](http://blog.csdn.net/a853459004/article/details/55213983)
+- [ ] [My Self-Driving Car Nano-degree | Project(1): Finding Lane Lines.](https://medium.com/@lailadahi/my-self-driving-car-nano-degree-project-1-finding-lane-lines-2cd44a45a7)
+- [ ] [My attempt to intuitively explain how this self-driving car algorithm works](https://medium.com/towards-data-science/m2m-day-185-my-attempt-to-intuitively-explain-how-this-self-driving-car-algorithm-works-7422eb2b135e)
+
+
+
+
+
+
+
