@@ -409,12 +409,15 @@
 
 ## Udacity 无人驾驶相关
 - [x][无人驾驶行业介绍](https://www.nytimes.com/interactive/2016/12/14/technology/how-self-driving-cars-work.html?_r=0)
+- [ ] [作业视频](http://mp3-free.co/Udacity-ND013-self-driving-car-simulation-using-deep-learning-mp3-download#)
+- [x] [Term1介绍](https://www.youtube.com/watch?v=GB0qNAnxnBg)
 ### project1
 - [x] [大体介绍](http://blog.csdn.net/a853459004/article/details/55213983)
 - [ ] [My Self-Driving Car Nano-degree | Project(1): Finding Lane Lines.](https://medium.com/@lailadahi/my-self-driving-car-nano-degree-project-1-finding-lane-lines-2cd44a45a7)
 - [ ] [My attempt to intuitively explain how this self-driving car algorithm works](https://medium.com/towards-data-science/m2m-day-185-my-attempt-to-intuitively-explain-how-this-self-driving-car-algorithm-works-7422eb2b135e)
 
-
+## Tensor Flow
+- [ml with tensorflow](https://machinelearning.technicacuriosa.com/2017/04/22/machine-learning-with-tensorflow/)
 
 
 
