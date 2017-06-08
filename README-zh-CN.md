@@ -418,8 +418,23 @@
 
 ## Tensor Flow
 - [ml with tensorflow](https://machinelearning.technicacuriosa.com/2017/04/22/machine-learning-with-tensorflow/)
+- [莫烦机器学习](https://morvanzhou.github.io/)
+- [Stanford TensorFlow](http://web.stanford.edu/class/cs20si/index.html)
 
+- [x][Tensorflow学习笔记2：About Session, Graph, Operation and Tensor](http://www.cnblogs.com/lienhua34/p/5998853.html)
+- [x] [理解Graph](http://blog.csdn.net/wangyao_bupt/article/details/69670698)
+- [x] [TensorFlow简介系列1](http://songhuiming.github.io/pages/2017/02/26/tensorflowjian-jie-01/)
+- [ ] [TensorFlow简介系列2](http://songhuiming.github.io/pages/2017/02/26/tensorflowjian-jie-02/)
+- [ ] [TensorFlow简介系列3](http://songhuiming.github.io/pages/2017/02/26/tensorflowjian-jie-03/)
+- [ ] [TensorFlow简介系列3](http://songhuiming.github.io/pages/2017/02/26/tensorflowjian-jie-03/)
+- [ ] [TensorFlow简介系列4](http://songhuiming.github.io/pages/2017/03/05/tensorflowjian-jie-04/)
+- [ ] [TensorFlow简介系列5](http://songhuiming.github.io/pages/2017/05/06/tensorflowjian-jie-05-multivariate-regression-with-stochastic-gradient-descent/)
+- [ ] [Code Git hub](https://github.com/nethsix/gentle_tensorflow/tree/master/code)
+- [ ] [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 
-
-
-
+##Python
+- [with as语法](http://blog.kissdata.com/2014/05/23/python-with.html)
+- [x] [pdb调试](http://python.jobbole.com/81184/) 
+- [x] [常用的几种调试技巧](http://www.jb51.net/article/65072.htm)
+- [x] [excel数据读取](https://pythonhosted.org/xlrd3/sheet.html) 
+- [ ] [TensorFlow Python API](https://www.tensorflow.org/api_docs/python/)
