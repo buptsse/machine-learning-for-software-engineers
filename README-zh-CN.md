@@ -433,7 +433,7 @@
 - [ ][TensorFlow学习](http://blog.csdn.net/xierhacker/article/category/6511974)
 - [x] [Symbolic computing and deep learning tutorial with Tensorflow](http://christopher5106.github.io/big/data/2016/03/06/symbolic-computing-and-deep-learning-tutorial-on-theano-and-google-tensorflow.html)
 
-##Python
+## Python
 - [with as语法](http://blog.kissdata.com/2014/05/23/python-with.html)
 - [x] [pdb调试](http://python.jobbole.com/81184/) 
 - [x] [常用的几种调试技巧](http://www.jb51.net/article/65072.htm)
