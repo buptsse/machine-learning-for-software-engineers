@@ -431,7 +431,7 @@
 - [ ] [TensorFlow简介系列5](http://songhuiming.github.io/pages/2017/05/06/tensorflowjian-jie-05-multivariate-regression-with-stochastic-gradient-descent/)
 - [ ] [Code Git hub](https://github.com/nethsix/gentle_tensorflow/tree/master/code)
 - [ ] [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
-
+- [ ][TensorFlow学习](http://blog.csdn.net/xierhacker/article/category/6511974)
 ##Python
 - [with as语法](http://blog.kissdata.com/2014/05/23/python-with.html)
 - [x] [pdb调试](http://python.jobbole.com/81184/) 
