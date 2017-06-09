@@ -420,6 +420,7 @@
 - [ml with tensorflow](https://machinelearning.technicacuriosa.com/2017/04/22/machine-learning-with-tensorflow/)
 - [莫烦机器学习](https://morvanzhou.github.io/)
 - [Stanford TensorFlow](http://web.stanford.edu/class/cs20si/index.html)
+- [Stanford TensorFlow对应翻译](http://blog.csdn.net/wangyuweihx/article/month/2017/03)
 
 - [x][Tensorflow学习笔记2：About Session, Graph, Operation and Tensor](http://www.cnblogs.com/lienhua34/p/5998853.html)
 - [x] [理解Graph](http://blog.csdn.net/wangyao_bupt/article/details/69670698)
@@ -432,6 +433,7 @@
 - [ ] [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 - [ ][TensorFlow学习](http://blog.csdn.net/xierhacker/article/category/6511974)
 - [x] [Symbolic computing and deep learning tutorial with Tensorflow](http://christopher5106.github.io/big/data/2016/03/06/symbolic-computing-and-deep-learning-tutorial-on-theano-and-google-tensorflow.html)
+- [x] [Tensor Fetch order](https://stackoverflow.com/questions/35512046/requesting-multiple-values-from-graph-at-same-time)
 
 ## Python
 - [with as语法](http://blog.kissdata.com/2014/05/23/python-with.html)
