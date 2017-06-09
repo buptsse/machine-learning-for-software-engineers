@@ -441,3 +441,6 @@
 - [x] [常用的几种调试技巧](http://www.jb51.net/article/65072.htm)
 - [x] [excel数据读取](https://pythonhosted.org/xlrd3/sheet.html) 
 - [ ] [TensorFlow Python API](https://www.tensorflow.org/api_docs/python/)
+
+## DeepLearning 
+- [ ] [Neural Networks and Deep Learning ](https://www.gitbook.com/book/hit-scir/neural-networks-and-deep-learning-zh_cn/details)
