@@ -451,3 +451,8 @@
 ## 概率论
 - [ ] [相关概率知识](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) 对应-> [中文版本](http://blog.csdn.net/u012566895/article/details/51220127)
 - [ ] [概率论02 概率公理](http://www.cnblogs.com/vamei/p/3194360.html)
+- [ ] [机器学习之概率论与数理统计基础知识-(1)马尔可夫和贝叶斯](http://blog.csdn.net/Neil_Pan/article/details/51685670?utm_source=itdadao&utm_medium=referral)
+- [ ] [机器学习之概率论与数理统计基础知识-(2)随机变量和数字特征](http://blog.csdn.net/Neil_Pan/article/details/51705485)
+
+## 信息论
+- [ ] [可汗学院信息论](https://www.khanacademy.org/computing/computer-science/informationtheory) 
