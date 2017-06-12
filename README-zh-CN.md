@@ -444,3 +444,10 @@
 
 ## DeepLearning 
 - [ ] [Neural Networks and Deep Learning ](https://www.gitbook.com/book/hit-scir/neural-networks-and-deep-learning-zh_cn/details)
+- [ ] [Natural Language Processing with Deep Learning  CS224N Linguistic 284](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+- [ ] [方差和熵](http://www.cnblogs.com/zeag/p/4889262.html)
+- [ ] [决策树以及信息熵的相关解释](http://liuzhiqiangruc.iteye.com/blog/2289986)
+
+## 概率论
+- [ ] [相关概率知识](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) 对应-> [中文版本](http://blog.csdn.net/u012566895/article/details/51220127)
+- [ ] [概率论02 概率公理](http://www.cnblogs.com/vamei/p/3194360.html)
